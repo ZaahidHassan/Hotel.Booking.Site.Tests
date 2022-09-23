@@ -1,8 +1,6 @@
 ﻿using System.Text.Json;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
-using Hotel.Booking.Site.Tests.Helpers;
 
 namespace Hotel.Booking.Site.Tests.Helpers
 {
